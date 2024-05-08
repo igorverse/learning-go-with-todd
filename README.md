@@ -1,1 +1,22 @@
-# learning Go With Todd
+# Learning Go With Todd
+
+- [x] Course Introduction
+- [x] Getting going with Go
+- [x] The fundamentals of Go
+- [x] Programming fundamentals
+- [x] Your development environment
+- [x] Go mod and depency management
+- [x] Hash Algorithms, Symmetric & Asymmetric Encryption, Communication
+- [x] Control Flow
+- [x] Grouping data values - arrays & slices
+- [x] Grouping data values - map
+- [x] Groupring data values - struct
+- [x] Functions in the go programming language
+- [x] Pointers
+- [x] Generics
+- [x] Application 
+- [ ] Concurrency
+- [ ] Channels
+- [ ] Error handling
+- [ ] Writing documentation
+- [ ] Testing & benchmarking
